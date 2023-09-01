@@ -333,3 +333,5 @@ modules.xml
 # End of https://www.toptal.com/developers/gitignore/api/phpstorm+iml,phpstorm+all,php-cs-fixer,phpstorm,phpcodesniffer,phpunit,cakephp,fuelphp,cakephp2,cakephp3,thinkphp
 
 .vscode
+ciencia_inteligente
+innova_cientifica
